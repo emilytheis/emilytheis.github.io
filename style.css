@@ -1,13 +1,13 @@
 /* GLOBAL */
 body {
- 	font-family: 'Nunito', sans-serif;
- 	background-color: #FAF0E8;
- 	font-variant-ligatures: none;
+	font-family: 'Nunito', sans-serif;
+	background-color: #F9FAF2;
+	font-variant-ligatures: none;
 }
 
 .about {
 	margin: 5% 10%;
-	max-width: 600px;
+	max-width: 690px;
 }
 
 ::selection {
@@ -30,42 +30,11 @@ h1 {
 	line-height: 110%;
 }
 
+h2 {
+	color: #3D9EF1;
+}
+
 .description {
 	font-size: 20px;
 	line-height: 160%;
-	font-weight: 300;
-	color: #0C618A;
-}
-
-.body-copy {
-	font-size: 16px;
-	line-height: 140%;
-	color: #0C618A;
-}
-
-a:link, a:visited {
-	color: #0C618A;
-	text-decoration: none;
-	box-shadow: 0 -0.1em 0 #3D9EF1 inset;	
-}
-
-
-a:hover {
-	text-decoration: none;
-  	transition: 0.4s; 
-  	box-shadow: 0 -0.3em 0 #3D9EF1 inset;
-}
-
-
-@media (min-width: 450px) {
- h1 {
-      font-size: 40px;
- }
- .description { 
- 	font-size: 24px;
- }
- .body-copy {
-	font-size: 18px;
-	line-height: 140%;
-	color: #0C618A;
-}
+	fon
